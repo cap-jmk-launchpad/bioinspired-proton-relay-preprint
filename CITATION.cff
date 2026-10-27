@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this preprint, please cite it as below."
+title: "A Bio-Inspired Proton-Relay Mechanism for Base-Induced Polyketide Ring Closure: a Hypothesis Inspired by the Aromatase/Cyclases TcmN and WhiE"
+type: article
+version: "1.0"
+date-released: 2026-10-27
+license: CC-BY-4.0
+repository-code: "https://github.com/cap-jmk-launchpad/bioinspired-proton-relay-preprint"
+authors:
+  - family-names: Kleber
+    given-names: Julian M.
+    orcid: "https://orcid.org/0000-0001-5518-0932"
+    affiliation: "sail.black, Berlin, Germany"
+keywords: [proton relay, Grotthuss mechanism, polyketide cyclisation, aldol condensation, aromatase/cyclase, TcmN, WhiE, biomimetic synthesis, tetracycline]

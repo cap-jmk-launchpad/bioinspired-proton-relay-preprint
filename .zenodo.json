@@ -1,0 +1,13 @@
+{
+  "title": "A Bio-Inspired Proton-Relay Mechanism for Base-Induced Polyketide Ring Closure: a Hypothesis Inspired by the Aromatase/Cyclases TcmN and WhiE",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Perspective preprint. We hypothesise that in base-induced cyclisation of poly-beta-carbonyl chains in protic media, the proton removed from the active methylene and the proton returned to the alkoxide travel along a hydrogen-bond chain by successive hops (Grotthuss-type relay), extending the single-water mechanism proposed for the aromatase/cyclases TcmN and WhiE. The paper gives the mechanism, evidence for and against, testable predictions and a computational test plan. It reports no new experimental or computational data.",
+  "creators": [{"name": "Kleber, Julian M.", "affiliation": "sail.black, Berlin, Germany", "orcid": "0000-0001-5518-0932"}],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0",
+  "language": "eng",
+  "keywords": ["proton relay", "Grotthuss mechanism", "polyketide cyclisation", "aldol condensation", "aromatase/cyclase", "TcmN", "WhiE", "biomimetic synthesis", "tetracycline"],
+  "related_identifiers": [{"identifier": "10.13140/RG.2.2.23579.28965", "relation": "isDerivedFrom", "scheme": "doi"}]
+}
